@@ -220,9 +220,8 @@
 
 	<distributionManagement>
 		<repository>
-			<id>eis-public-repo</id>
-			<name>maven-public</name>
-			<url>http://maven.iais.fraunhofer.de/artifactory/eis-ids-public</url>
+			<id>github</id>
+			<url>https://maven.pkg.github.com/eclipse-dataspaceconnector/IDS-Serializer</url>
 		</repository>
 	</distributionManagement>
 
